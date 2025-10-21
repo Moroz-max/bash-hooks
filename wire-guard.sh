@@ -13,7 +13,7 @@ cd /
 apt-get update
 apt -y install python3-pip
 pip install gunicorn ifcfg flask flask_qrcode icmplib
-git clone -b v3.1-dev https://github.com/donaldzou/WGDashboard.git wgdashboard
+git clone -b v4.3.1-dev https://github.com/donaldzou/WGDashboard.git wgdashboard
 
 cd /wgdashboard/src
 
